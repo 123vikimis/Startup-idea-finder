@@ -1,0 +1,9 @@
+{
+  "name": "startup-idea-finder",
+  "version": "1.0.0",
+  "description": "AI startup ideation platform",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
