@@ -1,0 +1,1 @@
+console.log('Startup Idea Finder Loaded');
